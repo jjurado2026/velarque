@@ -1,0 +1,15 @@
+# === PRIVACIDAD: nunca publicar datos personales en este repo (que es PÚBLICO) ===
+# Foto del grupo (PII) y cualquier export de WhatsApp
+WhatsApp Image*.jpeg
+WhatsApp Image*.jpg
+WhatsApp*.jpeg
+WhatsApp*.jpg
+
+# Juego con fotos reales del grupo (tiene su propio repositorio PRIVADO)
+cabezones-fc/
+
+# Artefactos del sistema / dependencias
+.DS_Store
+Thumbs.db
+node_modules/
+.claude/
